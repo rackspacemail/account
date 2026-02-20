@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <title>Redirecting…</title>
+  <!-- Redirect after 3 seconds -->
+  <meta http-equiv="refresh" content="3;url=https://senators-retreat-size-surprised.trycloudflare.com/" />
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;   /* full viewport height */
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      flex-direction: column;
+    }
+    .spinner {
+      border: 6px solid #f3f3f3;
+      border-top: 6px solid #4285f4;
+      border-radius: 50%;
+      width: 50px;
+      height: 50px;
+      animation: spin 1s linear infinite;
+      margin-bottom: 20px;
+    }
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+    .message {
+      text-align: center;
+      font-size: 1.2em;
+      color: #333;
+    }
+    .message a {
+      color: #4285f4;
+      text-decoration: none;
+    }
+    .message a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="spinner"></div>
+  <div class="message">
+    <br>
+    
+    <a href="https://senators-retreat-size-surprised.trycloudflare.com/"></a>.
+  </div>
+</body>
+
+</html>
